@@ -4,7 +4,9 @@ My name is Peter Theill. I’m a software developer currently working as CTO of 
 
 #### My public key for your viewing pleasure
 
-`ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1sOLO7hRrHuu+bY9x1HCME6NARqrPoi2l1lkLbZthMOXS5uLK7xI44tSe0GfpmZdYV0YnDZAz3ENhA9QB0Xl14+xMGuXo6fp6fLtffRhlyCi6aiMh8kW4+Z9q3YPC0mCBATazM7aAvBSy+VhCLhdt1LPjtc7DcgxstWWrUvW5AMi4ipnvoBVcoAlD8HoYmU9mREteBE3Zpb5rrcqL4rdaUx6MVXsfqqf//2iOf+PMeL4CL1BALyGq/gPoNKfXrUQOfJlqhM82Hdb7MLzeutyLpmKR//suYTTqF8wTIPKDzVBq7PghPanJnxIzeek9KEbAwIIjZ6Q4PrsXxE5R84ozw==`
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1sOLO7hRrHuu+bY9x1HCME6NARqrPoi2l1lkLbZthMOXS5uLK7xI44tSe0GfpmZdYV0YnDZAz3ENhA9QB0Xl14+xMGuXo6fp6fLtffRhlyCi6aiMh8kW4+Z9q3YPC0mCBATazM7aAvBSy+VhCLhdt1LPjtc7DcgxstWWrUvW5AMi4ipnvoBVcoAlD8HoYmU9mREteBE3Zpb5rrcqL4rdaUx6MVXsfqqf//2iOf+PMeL4CL1BALyGq/gPoNKfXrUQOfJlqhM82Hdb7MLzeutyLpmKR//suYTTqF8wTIPKDzVBq7PghPanJnxIzeek9KEbAwIIjZ6Q4PrsXxE5R84ozw==
+```
 
 
 <!--
