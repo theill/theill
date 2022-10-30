@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Peter Theill. I’m a software developer currently working as CTO of [Paralenz](https://www.paralenz.com/). I’m also a co-founder of three smaller startups: [Familio](https://familiohq.com/), [Outbound](https://outboundhq.com/) and Clientele. I started playing around with programming back in 1987 on a good old Commodore 64 and got more serious around 1994 where some of my first shareware products were released.
+My name is Peter Theill. I’m a software developer. I’m a co-founder of three smaller startups: [Familio](https://familiohq.com/), [Outbound](https://outboundhq.com/) and Clientele. I started playing around with programming back in 1987 on a good old Commodore 64 and got more serious around 1994 where some of my first shareware products were released.
 
 #### My public key for your viewing pleasure
 
