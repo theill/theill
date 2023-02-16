@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Peter Theill. I’m a software developer. I’m a co-founder of three smaller startups: [Familio](https://familiohq.com/), [Outbound](https://outboundhq.com/) and Clientele. I started playing around with programming back in 1987 on a good old Commodore 64 and got more serious around 1994 where some of my first shareware products were released.
+My name is Peter Theill and I’m a software engineer. I'm co-founder of several startups such as Filebasket, Click A Taxi, Drivr, GoMore and [Familio](https://familiohq.com/). Currently I'm building the next kick-ass Saas tool for smaller travel agencies called [Outbound](https://outboundhq.com/) and at its current state it's very good but shortly it will be the absolutely best freaking travel agency tool around.
+
+I started playing around with programming back in 1987 on a good old Commodore 64 and got more serious around 1994 where some of my first shareware products were released.
 
 #### My public key for your viewing pleasure
 
