@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Peter Theill and I’m a software engineer. I'm co-founder of several startups such as Filebasket, Click A Taxi, Drivr, GoMore and [Familio](https://familiohq.com/). Currently I'm building the next kick-ass Saas tool for smaller travel agencies called [Outbound](https://outboundhq.com/) and at its current state it's very good but shortly it will be the absolutely best freaking travel agency tool around.
+My name is Peter Theill and I’m a software engineer. I'm co-founder of several startups such as Filebasket, Click A Taxi, Drivr, GoMore and [Familio](https://familiohq.com/). Currently we're building a travel-agency-in-a-box SAAS tool for small travel agencies called [Outbound](https://outboundhq.com/).
 
 I started playing around with programming back in 1987 on a good old Commodore 64 and got more serious around 1994 where some of my first shareware products were released.
 
